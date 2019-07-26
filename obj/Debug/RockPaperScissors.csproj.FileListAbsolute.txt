@@ -1,0 +1,7 @@
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
