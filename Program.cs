@@ -33,9 +33,9 @@ namespace RockPaperScissors
         static void Main(string[] args)
         {
             Program p = new Program();
-            p.mainn();
+            p.game();
         }
-        public void mainn()
+        public void game()
         {
             Program p = new Program();
             while (again == true)
@@ -143,7 +143,7 @@ namespace RockPaperScissors
                     {
                         again = true;
                         Console.Clear();
-                        p.mainn();
+                        p.game();
                     }
                     else
                     {

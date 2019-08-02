@@ -5,3 +5,8 @@ O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\Rock
 O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
 O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.exe
 O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\MySql.Data.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\Google.Protobuf.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\BouncyCastle.Crypto.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\bin\Debug\MySql.Data.xml
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Games\Rock Paper Scissors c#\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CopyComplete
